@@ -1,5 +1,7 @@
 # Gemini-AI-Chat-Assistant
 
+Deployment Link :- https://gemini-ai-chat-assistant-zlnfz9fh9sjaghyx5kauzy.streamlit.app/
+
 A conversational AI chatbot built using Google Gemini API, supporting both Terminal-based interaction and a modern Streamlit UI.
 
 
